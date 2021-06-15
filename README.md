@@ -1,1 +1,3 @@
-# Loan_Calculator_CLI
+# Loan Calculator CLI
+
+simple loan calculator using nodeJS
