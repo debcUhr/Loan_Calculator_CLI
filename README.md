@@ -1,3 +1,4 @@
 # Loan Calculator CLI
 
-simple loan calculator using nodeJS
+Simple loan calculator using nodeJS - command line application
+Node v14.17.0
